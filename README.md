@@ -20,7 +20,7 @@ Meu foco é entregar automações robustas, eficientes e escaláveis, sempre apl
 ## 🔍 **1. Projetos Python – Scraping & Crawler profissional**
 Automação de consultas em prefeituras, portais de trânsito e sistemas com cookies dinâmicos, tokens, sessões e geração de boletos.
 
-👉 **Acessar:** [Raspeagem de Python](./Raspeagem-de-Python)
+👉 **Acessar:** [Raspeagem de Python](./https://github.com/Miguel322024/miguel-portfolio-/tree/main/Python-Scraping)
 
 ---
 
