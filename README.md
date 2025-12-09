@@ -20,36 +20,39 @@ Meu foco é entregar automações robustas, eficientes e escaláveis, sempre apl
 ## 🔍 **1. Projetos Python – Scraping & Crawler profissional**
 Automação de consultas em prefeituras, portais de trânsito e sistemas com cookies dinâmicos, tokens, sessões e geração de boletos.
 
-👉 **Acessar:** https://github.com/Miguel322024/miguel-portfolio-/tree/main/Raspagem%20de%20Pythong)
+👉 **Acessar:**## 📁 Portfólio de Projetos
+
+### 🔹 1. Projetos de Raspagem em Python  
+[Acessar Pasta — Raspagem de Python](https://github.com/Miguel322024/miguel-portfolio-/tree/principal/Raspagem%20de%20Python)
+
 
 ---
 
 ## ⚙️ **2. Robôs Power Automate (Desktop + Cloud)**
 Rotinas de RH, pagamentos, extrações, validações e integrações em portais internos.
 
-👉 **Acessar:** https://github.com/Miguel322024/miguel-portfolio-/tree/main/PowerAutomate-Rob%C3%B4s)
+👉 **Acessar:**[Acessar Pasta — PowerAutomate-Robôs](https://github.com/Miguel322024/miguel-portfolio-/tree/principal/PowerAutomate-Rob%C3%B4s)
 
 ---
 
 ## 🔐 **3. Reset de Senha – Bancos (DIGIO e BMG)**
 Automação completa para reset e desbloqueio de credenciais corporativas.
 
-👉 **Acessar:** https://github.com/Miguel322024/miguel-portfolio-/tree/main/Reset-Senha-Bancos)
+👉 **Acessar:** [Acessar Pasta — Reset-Senha-Bancos](https://github.com/Miguel322024/miguel-portfolio-/tree/principal/Reset-Senha-Bancos)
 
 ---
 
 ## 🧮 **4. Cálculos Automáticos – RH**
 Automação de pagamentos quinzenais, férias, rescisões e cálculos com regras específicas.
 
-👉 **Acessar:** https://github.com/Miguel322024/miguel-portfolio-/tree/main/Calculos-e-Pagamentos-RH)
+👉 **Acessar:** [Acessar Pasta — Cálculos e Pagamentos RH](https://github.com/Miguel322024/miguel-portfolio-/tree/principal/Calculos-e-Pagamentos-RH)
 
 ---
 
 ## 🗺 **5. Mapeamento e Otimização de Processos**
 Documentação AS-IS, TO-BE, análise de gargalos e construção de PDD.
 
-👉 **Acessar:** https://github.com/Miguel322024/miguel-portfolio-/tree/main/Mapeamento-de-Processos)
-
+👉 **Acessar:** [Acessar Pasta — Mapeamento-de-Processos](https://github.com/Miguel322024/miguel-portfolio-/tree/principal/Mapeamento-de-Processos)
 ---
 
 # 🧰 **Tecnologias e Ferramentas**
