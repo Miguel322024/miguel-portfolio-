@@ -38,21 +38,21 @@ Rotinas de RH, pagamentos, extrações, validações e integrações em portais 
 ## 🔐 **3. Reset de Senha – Bancos (DIGIO e BMG)**
 Automação completa para reset e desbloqueio de credenciais corporativas.
 
-👉 **Acessar:** [Acessar Pasta — Reset-Senha-Bancos](https://github.com/Miguel322024/miguel-portfolio-/tree/principal/Reset-Senha-Bancos)
+👉 **Acessar:** [Acessar Pasta — Reset-Senha-Bancos](https://github.com/Miguel322024/miguel-portfolio-/tree/bd19222f1ff28a0ce98bbaf1ec568cc020cb6497/Reset-Senha-Bancos)
 
 ---
 
 ## 🧮 **4. Cálculos Automáticos – RH**
 Automação de pagamentos quinzenais, férias, rescisões e cálculos com regras específicas.
 
-👉 **Acessar:** [Acessar Pasta — Cálculos e Pagamentos RH](https://github.com/Miguel322024/miguel-portfolio-/tree/principal/Calculos-e-Pagamentos-RH)
+👉 **Acessar:** [Acessar Pasta — Cálculos e Pagamentos RH](https://github.com/Miguel322024/miguel-portfolio-/tree/bd19222f1ff28a0ce98bbaf1ec568cc020cb6497/Calculos-e-Pagamentos-RH)
 
 ---
 
 ## 🗺 **5. Mapeamento e Otimização de Processos**
 Documentação AS-IS, TO-BE, análise de gargalos e construção de PDD.
 
-👉 **Acessar:** [Acessar Pasta — Mapeamento-de-Processos](https://github.com/Miguel322024/miguel-portfolio-/tree/principal/Mapeamento-de-Processos)
+👉 **Acessar:** [Acessar Pasta — Mapeamento-de-Processos](https://github.com/Miguel322024/miguel-portfolio-/tree/bd19222f1ff28a0ce98bbaf1ec568cc020cb6497/Mapeamento-de-Processos)
 ---
 
 # 🧰 **Tecnologias e Ferramentas**
