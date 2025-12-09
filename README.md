@@ -25,6 +25,7 @@ Governança, Logs, KPIs, Documentação e PDD
 Automachine Ware / Arquitetura de Bots
 
 🚀 Projetos Python & Crawlers
+
 🔹 1. Crawler Completo – Prefeituras e Portais de Trânsito
 
 Soluções desenvolvidas com HTTP Requests, análise de tokens, cookies dinâmicos, tratamento de sessões, extração de HTML, e geração de JSON limpo com alto nível de confiabilidade.
