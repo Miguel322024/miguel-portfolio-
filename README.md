@@ -23,7 +23,7 @@ Automação de consultas em prefeituras, portais de trânsito e sistemas com coo
 👉 **Acessar:**## 📁 Portfólio de Projetos
 
 ### 🔹 1. Projetos de Raspagem em Python  
-[Acessar Pasta — Raspagem de Python](https://github.com/Miguel322024/miguel-portfolio-/tree/principal/Raspagem%20de%20Python)
+[Acessar Pasta — Raspagem de Python](https://github.com/Miguel322024/miguel-portfolio-/tree/8fb2cf955c5ed995289fe622df8d60f24c30ae12/Python-Scraping)
 
 
 ---
