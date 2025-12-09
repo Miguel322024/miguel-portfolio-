@@ -1,202 +1,116 @@
-🟩 Miguel – Portfólio Profissional
-RPA Developer | Python | Crawler | Automação Inteligente | Processos | Power Automate
+🟩 Miguel – Portfólio Profissional em Automação | RPA | Python | Crawlers | Processos
 
-Bem-vindo ao meu portfólio!
-Aqui apresento os principais projetos desenvolvidos em Python, RPA, Web Scraping, Crawlers, Process Automation, Power Automate e automações estratégicas em sistemas bancários, prefeituras e portais estaduais.
+Bem-vindo ao meu portfólio profissional!
+Aqui você encontra os principais projetos que desenvolvi em:
 
-Meu foco é criar soluções de automação robustas, estáveis e escaláveis, com visão de processo de ponta a ponta — sempre aplicando regras de negócio, governança e boas práticas.
+RPA corporativo
+
+Python para automações complexas
+
+Web Scraping & Crawlers profissionais
+
+Integrações com APIs
+
+Automação de RH
+
+Automação bancária
+
+Mapeamento de processos AS-IS / TO-BE
+
+Governança e documentação PDD
+
+Meu foco é entregar automações robustas, eficientes e escaláveis, sempre aplicando regras de negócio reais, boas práticas, logs, governança e visão ponta a ponta.
 
 🧩 Competências Técnicas
 
-Python (Requests, Automação de Portais, APIs, Crawlers, Selenium, Playwright)
+Python: Requests, APIs REST, Selenium, Playwright, Crawlers estruturados
 
-RPA (Power Automate, Automation Anywhere, UiPath)
+RPA: Power Automate Desktop/Cloud, Automation Anywhere, UiPath
 
-Web Scraping & Crawlers Profissionais
+Crawlers Profissionais: headers dinâmicos, sessões, cookies, parsing de HTML, JSON estrutural
 
-APIs REST | JSON | Integrações complexas
+Processos: Mapeamento AS-IS, desenho TO-BE, PDD
 
-Mapeamento de Processos (AS-IS / TO-BE)
+Automação RH: cálculos de férias, rescisão, quinzenais
 
-Automações para RH, Bancos e Prefeituras
+Bancos: Rotinas Digio e BMG
 
-Governança, Logs, KPIs, Documentação e PDD
+Governança: logs, KPIs, monitorações, padrões corporativos
 
-Automachine Ware / Arquitetura de Bots
-
-🚀 Projetos Python & Crawlers
-
-🔹 1. Crawler Completo – Prefeituras e Portais de Trânsito
-
-Soluções desenvolvidas com HTTP Requests, análise de tokens, cookies dinâmicos, tratamento de sessões, extração de HTML, e geração de JSON limpo com alto nível de confiabilidade.
-
+🚀 Projetos de Python & Crawlers
 Portais atendidos:
 
-Prefeitura de Osasco
-
-Prefeitura de São José do Rio Preto
-
-Prefeitura de Ourinhos
-
-Prefeitura de Santo André
-
-Portal Radar Cipro
-
-DETRAN Espírito Santo
-
-DETRAN Minas Gerais
-
-DETRAN São Paulo
+DETRAN ES, MG, SP
 
 Senatran
 
+Prefeituras: Osasco, Santo André, Ourinhos, São José do Rio Preto
+
+Radar Cipr0
+
+👉 Descrições completas em: /python-crawlers/
+
 Principais entregas:
 
-Automação de consultas completas de AITs, multas, débitos e extratos
+Crawlers via Requests (sem Selenium)
 
-Crawlers que simularam comportamento humano com headers e cookies do Postman
+Extração de multas, débitos, AITs, extratos e boletos
 
-Extração estrutural de dados em JSON limpo
+Geração de PDF + base64
 
-Implementação de testes KPIs por request
+Simulação de navegação humana via tokens + cookies
 
-Soluções rodando sem CAPTCHA (quando possível) e com tratamento avançado de sessão
+Testes KPI e validação de performance
 
-Extração de boletos + conversão em PDF + geração de base64
+JSON limpo e estruturado
 
-🔹 2. Estudo e Integração – Impact
+Fluxos robustos de autenticação
 
-Implementação de automações fazendo:
+🟦 Automação Bancária – Digio & BMG
 
-Requisições diretas (sem Selenium)
+👉 Tudo detalhado em: /rpa-bancario/
 
-Testes de performance
+Banco Digio – Reset de Senha
+Robô completo de reset automático com logs, relatórios e validações.
 
-Validação de massa de dados
+Banco BMG – Automação Operacional
+Extrações, validações, acessos automáticos e monitoramento diário.
 
-Integrações com APIs e fluxos automáticos
+🟧 Robôs de RH – Power Automate + Python
 
-🔹 3. IPF – Extração e Automação
+👉 Detalhamento em: /rh/
 
-Projeto envolvendo:
+Cálculo de Pagamento de Férias
+Sistema FPW Emissões com regra de negócio: pagamento 2 dias antes + cálculo do retorno.
 
-Extração de informações estruturadas
+Rescisão
+Extração, cálculos automáticos, conferência e envio.
 
-Navegação automática
+Pagamentos Quinzenais
+Consulta + cálculos + lançamento + relatório final.
 
-Tratamento de exceções
+🟪 Processos e Governança
 
-Organização de saída em JSON pronto para sistemas internos
+👉 Documentação em: /processos/
 
-🟦 Automações Bancárias (Python + RPA)
-🔹 Banco Digio – Reset de Senha
+AS-IS / TO-BE
 
-Automação completa de:
+PDD
 
-Fluxo de reset de senha para colaboradores
+Levantamento de regra de negócio
 
-Validação de dados
+Gargalos e automação
 
-Navegação automatizada
+Governança RPA
 
-Relatórios de execução
+🟫 Monitoramentos & Extras
 
-🔹 Banco BMG – Automação Operacional
+👉 Materiais em: /extras/
 
-Robôs desenvolvidos para:
+Testes KPI por request
 
-Extrações
+Monitoramentos operacionais
 
-Validações
+Extrações para BI
 
-Acessos automatizados
-
-Geração de relatórios
-
-Monitoramento diário
-
-🟧 Robôs de RH | Power Automate + Python
-🔹 Cálculo de Pagamento de Férias
-
-Robô desenvolvido no Power Automate Desktop + Web:
-
-Acesso ao sistema FPW Emissões
-
-Aplicação de regra de negócio:
-Pagamento ocorre sempre 2 dias antes do início das férias
-
-Processamento de todos os funcionários do mês
-
-Cálculo automático da data de volta
-
-Geração de logs e métricas
-
-Validação final dos valores antes do envio
-
-🔹 Robô de Rescisão
-
-Extração de dados
-
-Cálculo automático
-
-Processamento das verbas
-
-Conferência final automática
-
-Envio para RH e diretoria
-
-🔹 Pagamentos Quinzenais – Automação
-
-Consulta
-
-Cálculo
-
-Lançamento
-
-Relatório final
-
-Monitoramento contínuo
-
-🟪 Extrações Web e Monitoramentos
-
-Projetos para:
-
-Banco de Santo André
-
-Monitoramentos operacionais diversos
-
-Robôs para validação de carteiras
-
-Extrações periódicas de dados web
-
-Conversão automática de informações
-
-Normalização de dados para BI
-
-🟫 Mapeamento de Processos
-
-Atuação em processos:
-
-Desenho AS-IS completo
-
-Construção do TO-BE orientado a automação
-
-Identificação de gargalos
-
-Criação de fluxos RPA
-
-Documentação PDD
-
-Aplicação de boas práticas de automação corporativa
-
-🔧 Outras Tecnologias e Skills
-
-SQL básico para consultas
-
-Boas práticas de logs e monitoramento
-
-Lógica de programação
-
-Gestão de filas de processamento
-
-Experiência em ambientes corporativos complexos
+Impact / Testes de performance
