@@ -59,7 +59,7 @@ Documentação AS-IS, TO-BE, análise de gargalos e construção de PDD.
 
 Desenvolvimento de aplicações full stack publicadas no GitHub, focadas em integração com automações, APIs corporativas e visualização de dados operacionais.
 
-🔹 API REST – Node.js + Express
+🔹 API REST – Node.js + Express  [Acessar Pasta — API REST – Node.js + Express ] 
 
 Desenvolvimento de APIs RESTful utilizando Node.js e Express.
 
