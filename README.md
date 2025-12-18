@@ -53,6 +53,65 @@ Automação de pagamentos quinzenais, férias, rescisões e cálculos com regras
 Documentação AS-IS, TO-BE, análise de gargalos e construção de PDD.
 
 👉 **Acessar:** [Acessar Pasta — Mapeamento-de-Processos](https://github.com/Miguel322024/miguel-portfolio-/tree/bd19222f1ff28a0ce98bbaf1ec568cc020cb6497/Mapeamento-de-Processos)
+
+
+ ## 🗺 **6. Projetos Full Stack – Node.js | Express | React
+
+Desenvolvimento de aplicações full stack publicadas no GitHub, focadas em integração com automações, APIs corporativas e visualização de dados operacionais.
+
+🔹 API REST – Node.js + Express
+
+Desenvolvimento de APIs RESTful utilizando Node.js e Express.
+
+Estruturação profissional de rotas, controllers e services.
+
+Padronização de respostas JSON e tratamento centralizado de erros.
+
+Autenticação via token e controle de sessões.
+
+Integração com sistemas externos, bancos de dados e serviços Python.
+
+APIs utilizadas por robôs RPA, aplicações web e apps mobile.
+
+👉 Acessar Pasta — Node-Express-API
+
+🔹 Backend Node.js para Automações e RPA
+
+Serviços Node.js atuando como camada intermediária entre robôs RPA e sistemas legados.
+
+Centralização de regras de negócio, validações e logs estruturados.
+
+Suporte a automações críticas com controle de execução e auditoria.
+
+👉 Acessar Pasta — Node-RPA-Backend
+
+🔹 Frontend em React – Dashboards Operacionais
+
+Desenvolvimento de interfaces web utilizando React.
+
+Criação de dashboards para visualização de dados de automações.
+
+Consumo de APIs REST desenvolvidas em Node.js e Express.
+
+Exibição dinâmica de status de processos, resultados e indicadores.
+
+Integração frontend + backend com foco em usabilidade e performance.
+
+👉 Acessar Pasta — React-Dashboard-Automacoes
+
+🧰 Tecnologias Utilizadas (Full Stack)
+
+Node.js
+
+Express
+
+React
+
+APIs REST / JSON
+
+Integração com Python e RPA
+
+Git e versionamento
 ---
 
 # 🧰 **Tecnologias e Ferramentas**
