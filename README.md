@@ -73,31 +73,6 @@ Integração com sistemas externos, bancos de dados e serviços Python.
 
 APIs utilizadas por robôs RPA, aplicações web e apps mobile.
 
-👉 Acessar Pasta — Node-Express-API
-
-🔹 Backend Node.js para Automações e RPA
-
-Serviços Node.js atuando como camada intermediária entre robôs RPA e sistemas legados.
-
-Centralização de regras de negócio, validações e logs estruturados.
-
-Suporte a automações críticas com controle de execução e auditoria.
-
-👉 Acessar Pasta — Node-RPA-Backend
-
-🔹 Frontend em React – Dashboards Operacionais
-
-Desenvolvimento de interfaces web utilizando React.
-
-Criação de dashboards para visualização de dados de automações.
-
-Consumo de APIs REST desenvolvidas em Node.js e Express.
-
-Exibição dinâmica de status de processos, resultados e indicadores.
-
-Integração frontend + backend com foco em usabilidade e performance.
-
-👉 Acessar Pasta — React-Dashboard-Automacoes
 
 🧰 Tecnologias Utilizadas (Full Stack)
 
