@@ -1,4 +1,5 @@
-# 🟩 Miguel – Portfólio Profissional em Automação | RPA | Python | Rastejantes | Processos
+# 🟩 Miguel | Portfólio de Desenvolvedor | Node.js | React | APIs | RPA | Python
+
 
 Bem-vindo ao meu portfólio profissional! Aqui você encontra os principais projetos que desenvolvi em:
 
